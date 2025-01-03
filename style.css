@@ -872,10 +872,14 @@ background-color:  #2d2daf;
   padding: 20px 30px;
   cursor: pointer;
   border-radius: 20px;
-  background-color: #240cf2;
+  background-color: #342b88d2;
   border: unset;
   outline: none;
   color: white;
   font-size: clamp(1.10rem,1.20rem,1.30rem);
   font-weight: 600;
+  transition: all 0.3s linear;
+}
+#get-a-quote-container button:hover{
+  background-color: #240cf2;
 }
