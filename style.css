@@ -867,3 +867,15 @@ background-color:  #2d2daf;
   font-weight: 600;
     text-transform: capitalize;
 }
+#get-a-quote-container button{
+  margin-top: 10px;
+  padding: 20px 30px;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: #240cf2;
+  border: unset;
+  outline: none;
+  color: white;
+  font-size: clamp(1.10rem,1.20rem,1.30rem);
+  font-weight: 600;
+}
